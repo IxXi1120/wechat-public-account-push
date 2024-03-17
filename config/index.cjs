@@ -56,7 +56,7 @@ const USER_CONFIG = {
       // 所在城市或县区
       city: '汕尾',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'tUMIY7C8AyU4VKxYI60OLSdc4RYprykfa4AlMsBHlbY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '9-23',
       festivals: [
